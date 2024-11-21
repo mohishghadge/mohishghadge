@@ -4,17 +4,17 @@
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1724889600&v=beta&t=_h_DEGN8JbzaA6noznnfkfN3FgyQbCm-HaTA466_gXI">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohishghadge&label=Profile%20views&color=0e75b6&style=flat" alt="mohishghadge" /> </p>
 
-- 🔭 I’m had currently worked on [Sidcup Family Golf](https://github.com/mohishghadge/Sidcup-Family-Golf-Clone)
+- 🔭 I’m had currently worked on [ThirtySix Studio Clone](https://github.com/mohishghadge/Thirtysixstudioclone)
 
 - 🌱 I’m currently learning **React.js,Next.js,Redux,Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohishghadge](https://github.com/mohishghadge)
 
-- 💬 Ask me about **JavaScript,React,Mongo,Node**
+- 💬 Ask me about **JavaScript,React,Mongo,Node,Express,GSAP**
 
 - 📫 How to reach me **mohishghadge1520@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohishghadge/overlay/1717995443008/single-media-viewer/?profileId=ACoAADZ6raIBOvfHel9rAK_GSN-hWb4DWLCVYZY](https://www.linkedin.com/in/mohishghadge/overlay/1717995443008/single-media-viewer/?profileId=ACoAADZ6raIBOvfHel9rAK_GSN-hWb4DWLCVYZY)
+- 📄 Know about my experiences [Resume](https://www.linkedin.com/in/mohishghadge/overlay/1727675956598/single-media-viewer/?profileId=ACoAADZ6raIBOvfHel9rAK_GSN-hWb4DWLCVYZY)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
